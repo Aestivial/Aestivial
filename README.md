@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Aestivial's GitHub Banner](./assets/pika dance.png)](https://github.com/Aestivial)
+
 ![image](https://user-images.githubusercontent.com/69592060/199204765-c51ec9ed-d82d-4fd2-a923-80db86fd2366.png)
 
 - 🔭 I’m currently working on Wheel Of Fortune
