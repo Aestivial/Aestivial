@@ -1,13 +1,14 @@
 <h1>
   <p align="center">
     <i>
-      <img src="https://slackmojis.com/emojis/33874-meow_attention-party/download"
+      <img 
+           src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         width="50px"
       />
       Hi, Aestivial (Nayan Panda) here!
       <img
-        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
-        width="30px"
+           src="https://slackmojis.com/emojis/33874-meow_attention-party/download"
+        width="50px"
       />
     </i>
   </p>
