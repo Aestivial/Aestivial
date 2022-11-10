@@ -1,8 +1,7 @@
 <h1>
   <p align="center">
-    <i
-      ><img
-        src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
+    <i>
+      <img src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         
         width="30px"
       />
