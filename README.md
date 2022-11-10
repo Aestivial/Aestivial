@@ -1,8 +1,8 @@
 <h1>
   <p align="center">
     <i>
-      <img src="https://slackmojis.com/emojis/5570-confused_dog/download"
-        width="30px"
+      <img src="https://slackmojis.com/emojis/33874-meow_attention-party/download"
+        width="50px"
       />
       Hi, Aestivial (Nayan Panda) here!
       <img
