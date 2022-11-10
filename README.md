@@ -20,7 +20,7 @@
 
 <img align="right" alt="GIF" src="assets/code-girl-anime.webp"  width="500" height="auto" />
 
-### Hi there 👋
+# Hi there 👋
 
 [![Aestivial's GitHub Banner](assets/pikadance.gif)](https://github.com/Aestivial)
 
