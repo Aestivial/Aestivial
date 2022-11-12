@@ -21,7 +21,7 @@
 
 ---
 
-# <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="50px"> Watashi Ni Tsuite:
+## <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="50px"> Watashi Ni Tsuite:
 
 ![image](https://user-images.githubusercontent.com/69592060/199204765-c51ec9ed-d82d-4fd2-a923-80db86fd2366.png)
 
