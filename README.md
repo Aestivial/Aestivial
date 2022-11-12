@@ -18,11 +18,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=008F11&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Let+me+show+you+around;My+Developer+Den+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB">
 </p>
 
-<img align="right" alt="GIF" src="assets/code-girl-anime.webp"  width="500" height="auto" /> (https://github.com/Aestivial)
+<img align="right" alt="GIF" src="assets/code-girl-anime.webp"  width="500" height="auto" />
 
-# Hi there 👋
-
-[![Aestivial's GitHub Banner](assets/pikadance.gif)]
+# Hello there 👋
 
 ![image](https://user-images.githubusercontent.com/69592060/199204765-c51ec9ed-d82d-4fd2-a923-80db86fd2366.png)
 
@@ -34,3 +32,6 @@
 - 📫 How to reach me: @aestivial_ on instagram
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Steve Jobs was adopted.
+
+
+![My stats](https://github-readme-stats.vercel.app/api?username=Aestivial&show_icons=true&theme=tokyonight)
