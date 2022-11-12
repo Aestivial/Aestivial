@@ -33,6 +33,8 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Steve Jobs was adopted.
 
+---
+
 ## Some Stats:
 <div align=center>
 Still a newbie...
@@ -40,4 +42,4 @@ Still a newbie...
 ![My stats](https://github-readme-stats.vercel.app/api?username=Aestivial&show_icons=true&theme=tokyonight)
   
   </div>
-
+---
