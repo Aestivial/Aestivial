@@ -22,8 +22,8 @@
 
 ---
 
-# Watashi Ni Tsuite <img
-           src="https://slackmojis.com/emojis/5570-confused_dog/download"
+# Watashi Ni Tsuite 
+<img src="https://slackmojis.com/emojis/5570-confused_dog/download"
         width="50px"
       />
 
