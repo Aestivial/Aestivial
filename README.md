@@ -34,6 +34,16 @@
 
 ---
 
+## Connect with me here:
+
+<p align = "left">
+  <a href="https://www.linkedin.com/in/aestivial/"><img height="30" src="https://github.com/Aestivial/Aestivial/tree/main/assets/linkedin.png"></a>&nbsp;
+  <a href="https://www.instagram.com/aestivial_/"><img height="30" src="https://github.com/Aestivial/Aestivial/tree/main/assets/instagram.png"></a>&nbsp;
+  <a href="https://open.spotify.com/user/uzx5m5bdd6yht0mmnlytx8fy2?si=5faaab5d99e04e09"><img height="30" src="https://github.com/Aestivial/Aestivial/tree/main/assets/spotify.png"></a>&nbsp;
+</p>
+
+---
+
 ## Some Stats:
 <div align=center>
 Still a newbie...
