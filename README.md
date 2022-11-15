@@ -39,7 +39,7 @@
 <p align = "left">
   
   <a href="https://www.linkedin.com/in/aestivial/">
-    <img height="30" src="https://github.com/Aestivial/Aestivial/tree/main/assets/linkedin.png">
+    <img height="30" src="https://github.com/shr3yy/shr3yy/blob/main/assets/linkedin.png">
   </a>&nbsp;
   <a href="https://www.instagram.com/aestivial_/">
     <img height="30" src="https://github.com/Aestivial/Aestivial/tree/main/assets/instagram.png">
