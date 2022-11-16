@@ -38,12 +38,14 @@
 
 <p align = "center">
   
+   <a href="https://www.instagram.com/aestivial_/">
+    <img height="30" src="https://github.com/Aestivial/Aestivial/blob/main/assets/instagram.png">
+  </a>&nbsp;
+  
   <a href="https://www.linkedin.com/in/aestivial/">
     <img height="30" src="https://github.com/Aestivial/Aestivial/blob/main/assets/linkedin.png">
   </a>&nbsp;
-  <a href="https://www.instagram.com/aestivial_/">
-    <img height="30" src="https://github.com/Aestivial/Aestivial/blob/main/assets/instagram.png">
-  </a>&nbsp;
+ 
   <a href="https://open.spotify.com/user/uzx5m5bdd6yht0mmnlytx8fy2?si=5faaab5d99e04e09">
     <img height="30" src="https://github.com/Aestivial/Aestivial/blob/main/assets/spotify.png">
   </a>&nbsp;
@@ -54,7 +56,7 @@
 
 ## Some Stats:
 <div align=center>
-Still a newbie...
+Regularly updating...
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aestivial&repo=HackerRank-Problems&theme=tokyonight)](https://github.com/Aestivial/HackerRank-Problems)
   &nbsp;&nbsp;
