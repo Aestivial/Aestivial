@@ -56,7 +56,7 @@
 <div align=center>
 Still a newbie...
   
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aestivial&repo=UI-UX&theme=tokyonight)](https://github.com/Aestivial/UI-UX)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aestivial&repo=HackerRank-Problems&theme=tokyonight)](https://github.com/Aestivial/HackerRank-Problems)
   &nbsp;&nbsp;
   
 ![My stats](https://github-readme-stats.vercel.app/api?username=Aestivial&show_icons=true&theme=tokyonight)
