@@ -36,7 +36,7 @@
 
 ## Connect with me here:
 
-<p align = "left">
+<p align = "center">
   
   <a href="https://www.linkedin.com/in/aestivial/">
     <img height="30" src="https://github.com/Aestivial/Aestivial/blob/main/assets/linkedin.png">
