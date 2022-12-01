@@ -5,7 +5,7 @@
            src="https://emojis.slackmojis.com/emojis/images/1547582922/5197/party_blob.gif?1547582922"
         width="50px"
       />
-      Hi, Aestivial (Nayan Panda) here!
+      &nbsp; Hi, Aestivial (Nayan Panda) here! &nbsp;
       <img
            src="https://slackmojis.com/emojis/33874-meow_attention-party/download"
         width="50px"
