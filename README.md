@@ -17,7 +17,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=008F11&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Let+me+show+you+around;My+Developer+Den+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB">
 </p>
 
-<img align="right" alt="GIF" src="assets/code-girl-anime.webp" width="500" height="auto">
+<img align="right" alt="CodeGirl" src="assets/code-girl-anime.webp" width="500" height="auto">
 
 ---
 
