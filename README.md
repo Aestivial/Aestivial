@@ -23,7 +23,7 @@
 
 ## <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="50px"> &nbsp; Watashi Ni Tsuite:
 
-- 🔭 I’m currently working on something something...
+- 🔭 I’m currently working on something something....
 - 🌱 I’m currently learning more of Python3
 - 👯 I’m looking to collaborate on Projects!
 - 🤔 I’m looking for help with my Public repos (mostly Python based)
