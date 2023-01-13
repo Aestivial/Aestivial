@@ -34,7 +34,7 @@
 
 ---
 
-## Connect with me here:
+## 🌐 Socials (Connect with me here):
 
 <p align = "center">
   
@@ -53,16 +53,22 @@
 </p>
 
 ---
+## 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Some Stats:
+
+<!-- ## Some Stats:
 <div align=center>
 Regularly updating...
   
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Aestivial&repo=HackerRank-Problems&theme=tokyonight)](https://github.com/Aestivial/HackerRank-Problems)
   &nbsp;&nbsp;
   
-![My stats](https://github-readme-stats.vercel.app/api?username=Aestivial&show_icons=true&theme=tokyonight)
+![My stats](https://github-readme-stats.vercel.app/api?username=Aestivial&show_icons=true&theme=tokyonight) -->
   
   </div>
   
 ---
+
+### ✍️ Random Dev Quote Go!
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
