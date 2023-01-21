@@ -1,3 +1,5 @@
+--> Backup "About Me"
+
 # 💫 About Me:
 🔭 I’m currently working on my personal website.<br>🌱 I’m currently learning more about Python3.<br>👯 I’m looking to collaborate on Projects!<br>🤔 I’m looking for help with my Public repositories (mostly Python based).<br>💬 Ask me about tech or geeky stuff.<br>📫 How to reach me: look up @aestivial_ on Instagram.<br>😄 Pronouns: he/him.<br>⚡ Fun fact: Penguins cannot walk backwards!
 
