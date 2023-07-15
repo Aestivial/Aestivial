@@ -21,7 +21,7 @@
 
 ---
 
-## <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="50px"> &nbsp; Watashi Ni Tsuite:
+## <img src="https://slackmojis.com/emojis/5570-confused_dog/download" width="50px"> &nbsp; Watashi Ni Tsuite (About Me):
 
 - 🔭 I’m currently working on something something...
 - 🌱 I’m currently learning more of Python3
