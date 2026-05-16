@@ -17,7 +17,7 @@
    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=008F11&width=435&lines=Welcome+to+my+GitHub!+%F0%9F%92%96;Let+me+show+you+around;My+Developer+Den+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB">
 </p>
 
-<img align="right" alt="CodeGirl" src="assets/code-girl-anime.webp" width="500" height="auto">
+<img align="right" alt="CodeGirl" src="assets/code-girl-anime.webp" width="600" height="auto">
 
 ---
 
@@ -28,15 +28,19 @@
 ## 🌐 Socials (Connect with me here):
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Aestivial#1840) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aestivial_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aestivial) 
 
-# 🚀 My Tech Arsenal
+---
 
 <div align="center">
+
+# 💻 My Tech Arsenal
+
+
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Friendly+Neighbourhood+Developer;AI+%2F+ML+Engineer;Game+Developer;Creative+Technologist;Open+Source+Enthusiast;Aestivial" />
 
 </div>
 
-## 💻 Programming and Scripting
+## Programming and Scripting
 
 <div align="center">
 
@@ -57,7 +61,7 @@
 
 </div>
 
-## 🌐 Web & Mobile Development
+## Web & Mobile Development
 
 <div align="center">
 
@@ -73,7 +77,7 @@
 
 </div>
 
-## 🧠 Machine Learning • Data Science • Data Analytics
+## Machine Learning • Data Science • Data Analytics
 
 <div align="center">
 
@@ -93,7 +97,7 @@
 
 </div>
 
-## 🛢️ Databases & Backend
+## Databases & Backend
 
 <div align="center">
 
@@ -104,7 +108,7 @@
 
 </div>
 
-## ⚙️ DevOps • Infrastructure • Automation
+## DevOps • Infrastructure • Automation
 
 <div align="center">
 
@@ -119,7 +123,7 @@
 
 </div>
 
-## 🎮 Game Development
+## Game Development
 
 <div align="center">
 
@@ -130,7 +134,7 @@
 
 </div>
 
-## 🎨 Creative & Design Tools
+## Creative & Design Tools
 
 <div align="center">
 
@@ -143,7 +147,7 @@
 
 </div>
 
-## 🧰 Developer Tools & Productivity
+## Developer Tools & Productivity
 
 <div align="center">
 
@@ -163,7 +167,7 @@
 
 </div>
 
-## 🖥️ OS & Platforms
+## OS & Platforms
 
 <div align="center">
 
@@ -180,7 +184,7 @@
 
 </div>
 
-## 💻 LLM Tools & Platforms
+## LLM Tools & Platforms
 
 <div align="center">
 
